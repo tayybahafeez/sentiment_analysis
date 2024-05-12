@@ -1,4 +1,4 @@
-# Sentiment_analysis
+# Sentiment_analysis using RNN
 
 It is a Natural languange Processing problem. This project is about to describe with word embeddings and train a basic neural network to predict text sentiment analysis to decsribes the positive and negative reviews.
 
